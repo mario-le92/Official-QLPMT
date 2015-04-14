@@ -26,5 +26,21 @@ namespace Quan_Ly_Phong_Mach_Tu
         {
 
         }
+
+        private void dgvDSBenhNhan_RowHeaderMouseDoubleClick(object sender, DataGridViewCellMouseEventArgs e)
+        {
+
+        }
+
+        private void btnThem_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void btnEditSoLuongKham_Click(object sender, EventArgs e)
+        {
+            ThayDoiNDS tnds = new ThayDoiNDS();
+            tnds.Show();
+        }
     }
 }
