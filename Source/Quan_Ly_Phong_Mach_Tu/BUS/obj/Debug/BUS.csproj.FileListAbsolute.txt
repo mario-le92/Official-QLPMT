@@ -1,9 +1,0 @@
-E:\Documents\File lap Trinh\LThong\CNPM\Official-QLPMT\Source\Quan_Ly_Phong_Mach_Tu\BUS\bin\Debug\BUS.dll
-E:\Documents\File lap Trinh\LThong\CNPM\Official-QLPMT\Source\Quan_Ly_Phong_Mach_Tu\BUS\bin\Debug\BUS.pdb
-E:\Documents\File lap Trinh\LThong\CNPM\Official-QLPMT\Source\Quan_Ly_Phong_Mach_Tu\BUS\bin\Debug\DAO.dll
-E:\Documents\File lap Trinh\LThong\CNPM\Official-QLPMT\Source\Quan_Ly_Phong_Mach_Tu\BUS\bin\Debug\DTO.dll
-E:\Documents\File lap Trinh\LThong\CNPM\Official-QLPMT\Source\Quan_Ly_Phong_Mach_Tu\BUS\bin\Debug\DAO.pdb
-E:\Documents\File lap Trinh\LThong\CNPM\Official-QLPMT\Source\Quan_Ly_Phong_Mach_Tu\BUS\bin\Debug\DTO.pdb
-E:\Documents\File lap Trinh\LThong\CNPM\Official-QLPMT\Source\Quan_Ly_Phong_Mach_Tu\BUS\obj\Debug\BUS.csprojResolveAssemblyReference.cache
-E:\Documents\File lap Trinh\LThong\CNPM\Official-QLPMT\Source\Quan_Ly_Phong_Mach_Tu\BUS\obj\Debug\BUS.dll
-E:\Documents\File lap Trinh\LThong\CNPM\Official-QLPMT\Source\Quan_Ly_Phong_Mach_Tu\BUS\obj\Debug\BUS.pdb
