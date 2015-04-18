@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2013
-VisualStudioVersion = 12.0.21005.1
+VisualStudioVersion = 12.0.31101.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Quan_Ly_Phong_Mach_Tu", "Quan_Ly_Phong_Mach_Tu\Quan_Ly_Phong_Mach_Tu.csproj", "{7E428E93-0E8B-4C6C-AD5B-CECBFE52FB2D}"
 EndProject
@@ -10,6 +10,8 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DTO", "DTO\DTO.csproj", "{CDE97630-BAC9-4BEB-9B45-DB14086DA1D7}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DAO", "DAO\DAO.csproj", "{4D024DD2-1F21-4B6A-9971-ABC94C2A1D47}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QL_PMT_yta", "QL_PMT_yta\QL_PMT_yta.csproj", "{F8EB947F-B071-41CD-A353-D0DC8CC4F11C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{4D024DD2-1F21-4B6A-9971-ABC94C2A1D47}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4D024DD2-1F21-4B6A-9971-ABC94C2A1D47}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4D024DD2-1F21-4B6A-9971-ABC94C2A1D47}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F8EB947F-B071-41CD-A353-D0DC8CC4F11C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F8EB947F-B071-41CD-A353-D0DC8CC4F11C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F8EB947F-B071-41CD-A353-D0DC8CC4F11C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F8EB947F-B071-41CD-A353-D0DC8CC4F11C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

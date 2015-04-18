@@ -9,31 +9,35 @@ namespace DTO
     public class TTPhongKhamDTO
     {
         private int soLuong;
+        public int SoLuong 
+        {
+            get 
+            {
+                return soLuong;
+            }
+            set
+            {
+                soLuong = value;
+            }
+        }
+
         private float tienKham;
+        public float TienKham 
+        { 
+            get
+            {
+                return tienKham;
+            } 
+            set
+            {
+                tienKham = value;
+            } 
+        }
 
         public TTPhongKhamDTO()
         {
             soLuong = 30;
             tienKham = 30000;
-        }
-        public int getSoLuong()
-        {
-            return soLuong;
-        }
-
-        public void setSoLuong(int soluong)
-        {
-            soLuong = soluong;
-        }
-
-        public float getTienKham()
-        {
-            return tienKham;
-        }
-
-        public void setTienKham(float tienkham)
-        {
-            tienKham = tienkham;
         }
     }
 }

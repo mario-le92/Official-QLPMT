@@ -22,8 +22,8 @@ namespace DAO
 
             while (reader.Read())
             {
-                ttpk.setSoLuong(int.Parse(reader.GetInt32(0).ToString()));
-                ttpk.setTienKham(float.Parse(reader.GetDouble(1).ToString()));
+                ttpk.SoLuong = int.Parse(reader.GetInt32(0).ToString());
+                ttpk.TienKham = float.Parse(reader.GetDouble(1).ToString());
             }
             reader.Close();
 
@@ -37,9 +37,9 @@ namespace DAO
             string sql = "UPDATE Thong_tin_phong_kham set So_Luong_Kham = @SL, Phi_Kham_Benh = @TK where ID=1";
             OleDbCommand command = new OleDbCommand(sql, connection);
             OleDbParameter para = command.Parameters.Add("@SL", OleDbType.Numeric);
-            para.Value = ttpk.getSoLuong();
+            para.Value = ttpk.SoLuong;
             para = command.Parameters.Add("@TK", OleDbType.Double);
-            para.Value = ttpk.getTienKham();
+            para.Value = ttpk.TienKham;
 
             int count = command.ExecuteNonQuery();
             connection.Close();

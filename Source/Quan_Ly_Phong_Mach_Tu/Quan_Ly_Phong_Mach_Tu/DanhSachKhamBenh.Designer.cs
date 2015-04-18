@@ -60,7 +60,7 @@
             this.thongTinThuocToolStripMenuItem});
             this.menuStrip1.Location = new System.Drawing.Point(0, 0);
             this.menuStrip1.Name = "menuStrip1";
-            this.menuStrip1.Size = new System.Drawing.Size(626, 24);
+            this.menuStrip1.Size = new System.Drawing.Size(844, 24);
             this.menuStrip1.TabIndex = 2;
             this.menuStrip1.Text = "menuStrip1";
             // 
@@ -85,7 +85,7 @@
             // tbSearch
             // 
             this.tbSearch.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
-            this.tbSearch.Location = new System.Drawing.Point(447, 28);
+            this.tbSearch.Location = new System.Drawing.Point(665, 28);
             this.tbSearch.Name = "tbSearch";
             this.tbSearch.Size = new System.Drawing.Size(167, 20);
             this.tbSearch.TabIndex = 3;
@@ -101,7 +101,7 @@
             this.dgvDSBenhNhan.Location = new System.Drawing.Point(0, 54);
             this.dgvDSBenhNhan.Name = "dgvDSBenhNhan";
             this.dgvDSBenhNhan.ReadOnly = true;
-            this.dgvDSBenhNhan.Size = new System.Drawing.Size(626, 241);
+            this.dgvDSBenhNhan.Size = new System.Drawing.Size(844, 376);
             this.dgvDSBenhNhan.TabIndex = 4;
             this.dgvDSBenhNhan.RowHeaderMouseDoubleClick += new System.Windows.Forms.DataGridViewCellMouseEventHandler(this.dgvDSBenhNhan_RowHeaderMouseDoubleClick);
             // 
@@ -109,7 +109,7 @@
             // 
             this.btnEditSoLuongKham.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Right)));
             this.btnEditSoLuongKham.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
-            this.btnEditSoLuongKham.Location = new System.Drawing.Point(487, 301);
+            this.btnEditSoLuongKham.Location = new System.Drawing.Point(705, 436);
             this.btnEditSoLuongKham.Name = "btnEditSoLuongKham";
             this.btnEditSoLuongKham.Size = new System.Drawing.Size(127, 23);
             this.btnEditSoLuongKham.TabIndex = 5;
@@ -121,7 +121,7 @@
             // 
             this.lbSoLuongHienTai.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Left)));
             this.lbSoLuongHienTai.AutoSize = true;
-            this.lbSoLuongHienTai.Location = new System.Drawing.Point(12, 311);
+            this.lbSoLuongHienTai.Location = new System.Drawing.Point(12, 446);
             this.lbSoLuongHienTai.Name = "lbSoLuongHienTai";
             this.lbSoLuongHienTai.Size = new System.Drawing.Size(103, 13);
             this.lbSoLuongHienTai.TabIndex = 6;
@@ -131,7 +131,7 @@
             // 
             this.btnThem.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Right)));
             this.btnThem.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
-            this.btnThem.Location = new System.Drawing.Point(376, 301);
+            this.btnThem.Location = new System.Drawing.Point(594, 436);
             this.btnThem.Name = "btnThem";
             this.btnThem.Size = new System.Drawing.Size(105, 23);
             this.btnThem.TabIndex = 7;
@@ -144,7 +144,7 @@
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.SystemColors.ControlLightLight;
-            this.ClientSize = new System.Drawing.Size(626, 336);
+            this.ClientSize = new System.Drawing.Size(844, 471);
             this.Controls.Add(this.btnThem);
             this.Controls.Add(this.lbSoLuongHienTai);
             this.Controls.Add(this.btnEditSoLuongKham);
