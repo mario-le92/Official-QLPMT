@@ -1,0 +1,7 @@
+E:\Documents\File lap Trinh\LThong\CNPM\Official-QLPMT\Source\Quan_Ly_Phong_Mach_Tu\DAO\bin\Debug\DAO.dll
+E:\Documents\File lap Trinh\LThong\CNPM\Official-QLPMT\Source\Quan_Ly_Phong_Mach_Tu\DAO\bin\Debug\DAO.pdb
+E:\Documents\File lap Trinh\LThong\CNPM\Official-QLPMT\Source\Quan_Ly_Phong_Mach_Tu\DAO\bin\Debug\DTO.dll
+E:\Documents\File lap Trinh\LThong\CNPM\Official-QLPMT\Source\Quan_Ly_Phong_Mach_Tu\DAO\bin\Debug\DTO.pdb
+E:\Documents\File lap Trinh\LThong\CNPM\Official-QLPMT\Source\Quan_Ly_Phong_Mach_Tu\DAO\obj\Debug\DAO.csprojResolveAssemblyReference.cache
+E:\Documents\File lap Trinh\LThong\CNPM\Official-QLPMT\Source\Quan_Ly_Phong_Mach_Tu\DAO\obj\Debug\DAO.dll
+E:\Documents\File lap Trinh\LThong\CNPM\Official-QLPMT\Source\Quan_Ly_Phong_Mach_Tu\DAO\obj\Debug\DAO.pdb

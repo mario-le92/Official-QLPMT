@@ -1,0 +1,4 @@
+E:\Documents\File lap Trinh\LThong\CNPM\Official-QLPMT\Source\Quan_Ly_Phong_Mach_Tu\DTO\bin\Debug\DTO.dll
+E:\Documents\File lap Trinh\LThong\CNPM\Official-QLPMT\Source\Quan_Ly_Phong_Mach_Tu\DTO\bin\Debug\DTO.pdb
+E:\Documents\File lap Trinh\LThong\CNPM\Official-QLPMT\Source\Quan_Ly_Phong_Mach_Tu\DTO\obj\Debug\DTO.dll
+E:\Documents\File lap Trinh\LThong\CNPM\Official-QLPMT\Source\Quan_Ly_Phong_Mach_Tu\DTO\obj\Debug\DTO.pdb
