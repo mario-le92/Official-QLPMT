@@ -16,7 +16,7 @@ namespace Quan_Ly_Phong_Mach_Tu
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new frmTraCuuBenhNhan());
+            Application.Run(new DanhSachKhamBenh());
         }
     }
 }

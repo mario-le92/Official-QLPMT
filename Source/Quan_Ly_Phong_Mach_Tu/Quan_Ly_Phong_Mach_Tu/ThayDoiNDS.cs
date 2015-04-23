@@ -26,7 +26,7 @@ namespace Quan_Ly_Phong_Mach_Tu
             dto = new TTPhongKhamDTO();
             TTPhongKhamBUS bus = new TTPhongKhamBUS();
             dto =  bus.getTTPK();
-            //lbSLCu.Text = dto.getSoLuong().ToString();
+            lbSLCu.Text = dto.getSoLuong().ToString();
         }
 
         private void tbSoLuong_TextChanged(object sender, EventArgs e)
@@ -64,7 +64,7 @@ namespace Quan_Ly_Phong_Mach_Tu
             try
             {
                 sls = int.Parse(sl);
-                //dto.setSoLuong(sls);
+                dto.setSoLuong(sls);
             }
             catch (InvalidCastException exx) 
             {

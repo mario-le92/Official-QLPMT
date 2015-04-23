@@ -51,18 +51,6 @@
     <Compile Include="DanhSachKhamBenh.Designer.cs">
       <DependentUpon>DanhSachKhamBenh.cs</DependentUpon>
     </Compile>
-    <Compile Include="frmTraCuuBenhNhan.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="frmTraCuuBenhNhan.Designer.cs">
-      <DependentUpon>frmTraCuuBenhNhan.cs</DependentUpon>
-    </Compile>
-    <Compile Include="frmTraCuuBenhNhanSubForm.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="frmTraCuuBenhNhanSubForm.Designer.cs">
-      <DependentUpon>frmTraCuuBenhNhanSubForm.cs</DependentUpon>
-    </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="ThayDoiNDS.cs">
@@ -79,12 +67,6 @@
     </Compile>
     <EmbeddedResource Include="DanhSachKhamBenh.resx">
       <DependentUpon>DanhSachKhamBenh.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="frmTraCuuBenhNhan.resx">
-      <DependentUpon>frmTraCuuBenhNhan.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="frmTraCuuBenhNhanSubForm.resx">
-      <DependentUpon>frmTraCuuBenhNhanSubForm.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
