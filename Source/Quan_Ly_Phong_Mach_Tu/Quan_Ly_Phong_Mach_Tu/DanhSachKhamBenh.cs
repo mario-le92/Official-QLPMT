@@ -20,30 +20,16 @@ namespace Quan_Ly_Phong_Mach_Tu
 
         private void DanhSachKhamBenh_Load(object sender, EventArgs e)
         {
-            BUS.Benh_Nhan bn = new BUS.Benh_Nhan();
-            //DataTable dt = 
-            dgvDSBenhNhan.DataSource = bn.DanhsachBN();
+            Benh_NhanBUS bn = new BUS.Benh_NhanBUS();
+
+            dgvDSBenhNhan.DataSource = bn.DanhsachKham();
         }
 
-        private void tableLayoutPanel1_Paint(object sender, PaintEventArgs e)
+        private void btnThemBN_Click(object sender, EventArgs e)
         {
+            ThemBenhNhan bn = new ThemBenhNhan();
 
-        }
-
-        private void dgvDSBenhNhan_RowHeaderMouseDoubleClick(object sender, DataGridViewCellMouseEventArgs e)
-        {
-
-        }
-
-        private void btnThem_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        private void btnEditSoLuongKham_Click(object sender, EventArgs e)
-        {
-            ThayDoiNDS tnds = new ThayDoiNDS();
-            tnds.Show();
+            bn.ShowDialog();
         }
     }
 }

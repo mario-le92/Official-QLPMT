@@ -53,12 +53,6 @@
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="ThayDoiNDS.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="ThayDoiNDS.Designer.cs">
-      <DependentUpon>ThayDoiNDS.cs</DependentUpon>
-    </Compile>
     <Compile Include="ThemBenhNhan.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -77,9 +71,6 @@
       <AutoGen>True</AutoGen>
       <DependentUpon>Resources.resx</DependentUpon>
     </Compile>
-    <EmbeddedResource Include="ThayDoiNDS.resx">
-      <DependentUpon>ThayDoiNDS.cs</DependentUpon>
-    </EmbeddedResource>
     <EmbeddedResource Include="ThemBenhNhan.resx">
       <DependentUpon>ThemBenhNhan.cs</DependentUpon>
     </EmbeddedResource>

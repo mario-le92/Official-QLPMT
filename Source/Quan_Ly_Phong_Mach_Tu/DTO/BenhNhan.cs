@@ -8,6 +8,19 @@ namespace DTO
 {
     public class BenhNhan
     {
+        private int id;
+        public int ID
+        {
+            get
+            {
+                return id;
+            }
+            set
+            {
+                id = value;
+            }
+        }
+
         private string hoten;
         public string HoTen
         {
@@ -21,8 +34,8 @@ namespace DTO
             }
         }
 
-        private bool giotinh;
-        public bool GioiTinh
+        private string giotinh;
+        public string GioiTinh
         {
             get
             {
@@ -39,11 +52,11 @@ namespace DTO
         {
             get 
             {
-                return namsinh;
+                return namsinh.Date;
             }
             set
             {
-                namsinh = value;
+                namsinh = value.Date;
             }
         }
 
@@ -59,5 +72,6 @@ namespace DTO
                 diachi = value;
             }
         }
+
     }
 }

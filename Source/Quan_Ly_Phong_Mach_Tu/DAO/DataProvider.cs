@@ -61,7 +61,12 @@ namespace DAO
             } 
         } 
           
-        //Thực thi truy vấn với các lệnh insert, update, delete 
+        /// <summary>
+        /// Thực thi truy vấn với các lệnh insert, update, delete 
+        /// </summary>
+        /// <param name="procName">Tên của Procedure</param>
+        /// <param name="oledbParameters">Danh sách các tham số, không có là null</param>
+        /// <returns>Thành công trả về True, xảy ra lỗi trả vè false</returns>
         public bool SqlExcuteNonQuery(string procName, params OleDbParameter[] oledbParameters) 
         { 
             try 
@@ -97,7 +102,12 @@ namespace DAO
              
         } 
  
-        //Thực thi truy vấn với lệnh Select, tra ve 1 bang
+        /// <summary>
+        /// Thực thi truy vấn với lệnh Select, trả về 1 bảng dữ liệu
+        /// </summary>
+        /// <param name="procName">Tên của Procedure</param>
+        /// <param name="oledbParameters">Danh sách các tham số, không có là null</param>
+        /// <returns>Thành công trả về True, xảy ra lỗi trả vè false</returns>
         public DataTable SqlExcuteQuery(string procName, params OleDbParameter[] oledbParameters) 
         { 
             DataTable dt = null; 
@@ -130,8 +140,12 @@ namespace DAO
             return dt; 
         } 
  
- 
-        //Trả về 1 giá trị đầu tiên 
+         /// <summary>
+        /// Trả về 1 giá trị đầu tiên 
+        /// </summary>
+        /// <param name="procName">Tên của Procedure</param>
+        /// <param name="oledbParameters">Danh sách các tham số, không có là null</param>
+        /// <returns>Kiểu trả về object</returns>
         public object SqlExcuteScalar(string procName, params OleDbParameter[] oledbParameters)  
         { 
             object value = null; 
