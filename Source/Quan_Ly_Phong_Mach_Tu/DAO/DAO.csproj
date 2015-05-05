@@ -39,6 +39,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="BaoCaoDAO.cs" />
     <Compile Include="DanhSachBenhNhan.cs" />
     <Compile Include="ODBConnector.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />

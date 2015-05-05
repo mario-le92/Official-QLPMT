@@ -42,5 +42,11 @@ namespace Quan_Ly_Phong_Mach_Tu
             ThayDoiNDS tnds = new ThayDoiNDS();
             tnds.Show();
         }
+
+        private void baoCaoToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            BaoCao bc = new BaoCao();
+            bc.Show();
+        }
     }
 }

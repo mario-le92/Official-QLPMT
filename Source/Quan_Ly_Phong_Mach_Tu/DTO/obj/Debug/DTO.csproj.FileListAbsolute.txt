@@ -1,0 +1,5 @@
+E:\College\1Nam1\Nhap Mon Cong Nghe Phan Mem\Git Official\Official-QLPMT\Source\Quan_Ly_Phong_Mach_Tu\DTO\bin\Debug\DTO.dll
+E:\College\1Nam1\Nhap Mon Cong Nghe Phan Mem\Git Official\Official-QLPMT\Source\Quan_Ly_Phong_Mach_Tu\DTO\bin\Debug\DTO.pdb
+E:\College\1Nam1\Nhap Mon Cong Nghe Phan Mem\Git Official\Official-QLPMT\Source\Quan_Ly_Phong_Mach_Tu\DTO\obj\Debug\DTO.csprojResolveAssemblyReference.cache
+E:\College\1Nam1\Nhap Mon Cong Nghe Phan Mem\Git Official\Official-QLPMT\Source\Quan_Ly_Phong_Mach_Tu\DTO\obj\Debug\DTO.dll
+E:\College\1Nam1\Nhap Mon Cong Nghe Phan Mem\Git Official\Official-QLPMT\Source\Quan_Ly_Phong_Mach_Tu\DTO\obj\Debug\DTO.pdb
