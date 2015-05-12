@@ -79,5 +79,10 @@ namespace Quan_Ly_Phong_Mach_Tu
         {
             this.Dock = DockStyle.Fill;
         }
+
+        private void cbDTThang_SelectedIndexChanged(object sender, EventArgs e)
+        {
+
+        }
     }
 }

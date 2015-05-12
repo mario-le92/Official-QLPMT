@@ -65,18 +65,6 @@
     <Compile Include="BaoCaoUserControl.Designer.cs">
       <DependentUpon>BaoCaoUserControl.cs</DependentUpon>
     </Compile>
-    <Compile Include="CRDoanhThu.cs">
-      <AutoGen>True</AutoGen>
-      <DesignTime>True</DesignTime>
-      <DependentUpon>CRDoanhThu.rpt</DependentUpon>
-      <SubType>Component</SubType>
-    </Compile>
-    <Compile Include="CRSuDungThuoc.cs">
-      <AutoGen>True</AutoGen>
-      <DesignTime>True</DesignTime>
-      <DependentUpon>CRSuDungThuoc.rpt</DependentUpon>
-      <SubType>Component</SubType>
-    </Compile>
     <Compile Include="DanhSachKhamBenh.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -108,14 +96,6 @@
     </EmbeddedResource>
     <EmbeddedResource Include="BaoCaoUserControl.resx">
       <DependentUpon>BaoCaoUserControl.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="CRDoanhThu.rpt">
-      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
-      <LastGenOutput>CRDoanhThu.cs</LastGenOutput>
-    </EmbeddedResource>
-    <EmbeddedResource Include="CRSuDungThuoc.rpt">
-      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
-      <LastGenOutput>CRSuDungThuoc.cs</LastGenOutput>
     </EmbeddedResource>
     <EmbeddedResource Include="DanhSachKhamBenh.resx">
       <DependentUpon>DanhSachKhamBenh.cs</DependentUpon>

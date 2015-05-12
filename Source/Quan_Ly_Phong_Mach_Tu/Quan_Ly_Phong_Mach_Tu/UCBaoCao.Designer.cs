@@ -237,6 +237,7 @@
             this.cbDTThang.Name = "cbDTThang";
             this.cbDTThang.Size = new System.Drawing.Size(84, 21);
             this.cbDTThang.TabIndex = 1;
+            this.cbDTThang.SelectedIndexChanged += new System.EventHandler(this.cbDTThang_SelectedIndexChanged);
             // 
             // tabPage2
             // 

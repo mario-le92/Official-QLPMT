@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace Quan_Ly_Phong_Mach_Tu {
+namespace BUS {
     using System;
     using System.ComponentModel;
     using CrystalDecisions.Shared;
@@ -16,14 +16,14 @@ namespace Quan_Ly_Phong_Mach_Tu {
     using CrystalDecisions.CrystalReports.Engine;
     
     
-    public class CRDoanhThu : ReportClass {
+    public class CRSuDungThuoc : ReportClass {
         
-        public CRDoanhThu() {
+        public CRSuDungThuoc() {
         }
         
         public override string ResourceName {
             get {
-                return "CRDoanhThu.rpt";
+                return "CRSuDungThuoc.rpt";
             }
             set {
                 // Do nothing
@@ -41,7 +41,7 @@ namespace Quan_Ly_Phong_Mach_Tu {
         
         public override string FullResourceName {
             get {
-                return "Quan_Ly_Phong_Mach_Tu.CRDoanhThu.rpt";
+                return "BUS.CRSuDungThuoc.rpt";
             }
             set {
                 // Do nothing
@@ -66,7 +66,7 @@ namespace Quan_Ly_Phong_Mach_Tu {
         
         [Browsable(false)]
         [DesignerSerializationVisibilityAttribute(System.ComponentModel.DesignerSerializationVisibility.Hidden)]
-        public CrystalDecisions.CrystalReports.Engine.Section GroupHeaderSection1 {
+        public CrystalDecisions.CrystalReports.Engine.Section GroupHeaderSection2 {
             get {
                 return this.ReportDefinition.Sections[2];
             }
@@ -74,7 +74,7 @@ namespace Quan_Ly_Phong_Mach_Tu {
         
         [Browsable(false)]
         [DesignerSerializationVisibilityAttribute(System.ComponentModel.DesignerSerializationVisibility.Hidden)]
-        public CrystalDecisions.CrystalReports.Engine.Section GroupHeaderSection2 {
+        public CrystalDecisions.CrystalReports.Engine.Section GroupHeaderSection1 {
             get {
                 return this.ReportDefinition.Sections[3];
             }
@@ -90,7 +90,7 @@ namespace Quan_Ly_Phong_Mach_Tu {
         
         [Browsable(false)]
         [DesignerSerializationVisibilityAttribute(System.ComponentModel.DesignerSerializationVisibility.Hidden)]
-        public CrystalDecisions.CrystalReports.Engine.Section GroupFooterSection2 {
+        public CrystalDecisions.CrystalReports.Engine.Section GroupFooterSection1 {
             get {
                 return this.ReportDefinition.Sections[5];
             }
@@ -98,7 +98,7 @@ namespace Quan_Ly_Phong_Mach_Tu {
         
         [Browsable(false)]
         [DesignerSerializationVisibilityAttribute(System.ComponentModel.DesignerSerializationVisibility.Hidden)]
-        public CrystalDecisions.CrystalReports.Engine.Section GroupFooterSection1 {
+        public CrystalDecisions.CrystalReports.Engine.Section GroupFooterSection2 {
             get {
                 return this.ReportDefinition.Sections[6];
             }
@@ -122,9 +122,9 @@ namespace Quan_Ly_Phong_Mach_Tu {
     }
     
     [System.Drawing.ToolboxBitmapAttribute(typeof(CrystalDecisions.Shared.ExportOptions), "report.bmp")]
-    public class CachedCRDoanhThu : Component, ICachedReport {
+    public class CachedCRSuDungThuoc : Component, ICachedReport {
         
-        public CachedCRDoanhThu() {
+        public CachedCRSuDungThuoc() {
         }
         
         [Browsable(false)]
@@ -161,7 +161,7 @@ namespace Quan_Ly_Phong_Mach_Tu {
         }
         
         public virtual CrystalDecisions.CrystalReports.Engine.ReportDocument CreateReport() {
-            CRDoanhThu rpt = new CRDoanhThu();
+            CRSuDungThuoc rpt = new CRSuDungThuoc();
             rpt.Site = this.Site;
             return rpt;
         }
