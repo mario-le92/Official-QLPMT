@@ -28,7 +28,6 @@
         /// </summary>
         private void InitializeComponent()
         {
-            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(BaoCaoUserControl));
             this.crvBaoCao = new CrystalDecisions.Windows.Forms.CrystalReportViewer();
             this.btnDoanhThu = new System.Windows.Forms.Button();
             this.panel1 = new System.Windows.Forms.Panel();
@@ -61,7 +60,7 @@
             this.btnDoanhThu.FlatAppearance.MouseDownBackColor = System.Drawing.SystemColors.GradientActiveCaption;
             this.btnDoanhThu.FlatAppearance.MouseOverBackColor = System.Drawing.SystemColors.InactiveCaption;
             this.btnDoanhThu.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.btnDoanhThu.Location = new System.Drawing.Point(267, 3);
+            this.btnDoanhThu.Location = new System.Drawing.Point(294, 3);
             this.btnDoanhThu.Name = "btnDoanhThu";
             this.btnDoanhThu.Size = new System.Drawing.Size(75, 23);
             this.btnDoanhThu.TabIndex = 1;
@@ -87,7 +86,7 @@
             this.btnThuoc.FlatAppearance.MouseDownBackColor = System.Drawing.SystemColors.GradientActiveCaption;
             this.btnThuoc.FlatAppearance.MouseOverBackColor = System.Drawing.SystemColors.InactiveCaption;
             this.btnThuoc.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.btnThuoc.Location = new System.Drawing.Point(348, 3);
+            this.btnThuoc.Location = new System.Drawing.Point(375, 3);
             this.btnThuoc.Name = "btnThuoc";
             this.btnThuoc.Size = new System.Drawing.Size(75, 23);
             this.btnThuoc.TabIndex = 3;
@@ -161,7 +160,6 @@
             // btnRF
             // 
             this.btnRF.BackColor = System.Drawing.SystemColors.GradientInactiveCaption;
-            this.btnRF.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("btnRF.BackgroundImage")));
             this.btnRF.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
             this.btnRF.FlatAppearance.BorderSize = 0;
             this.btnRF.FlatAppearance.MouseDownBackColor = System.Drawing.SystemColors.GradientActiveCaption;
@@ -169,8 +167,9 @@
             this.btnRF.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btnRF.Location = new System.Drawing.Point(238, 3);
             this.btnRF.Name = "btnRF";
-            this.btnRF.Size = new System.Drawing.Size(23, 23);
+            this.btnRF.Size = new System.Drawing.Size(50, 23);
             this.btnRF.TabIndex = 1;
+            this.btnRF.Text = "Xem";
             this.btnRF.UseVisualStyleBackColor = false;
             this.btnRF.Click += new System.EventHandler(this.btnRF_Click);
             // 

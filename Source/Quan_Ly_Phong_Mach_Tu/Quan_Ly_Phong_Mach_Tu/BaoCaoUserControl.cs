@@ -44,7 +44,7 @@ namespace Quan_Ly_Phong_Mach_Tu
         private void btnThuoc_Click(object sender, EventArgs e)
         {
             BaoCaoBUS bus = new BaoCaoBUS();
-            crvBaoCao.ReportSource = bus.getCRSuDungThuoc("", "");
+            crvBaoCao.ReportSource = bus.getCRSuDungThuoc(cbThang.SelectedIndex, nupNam.Value.ToString());
             isDT = false;
         }
 
@@ -59,7 +59,7 @@ namespace Quan_Ly_Phong_Mach_Tu
             if (isDT)
                 crvBaoCao.ReportSource = bus.getCRDoanhThu(cbThang.SelectedIndex, nupNam.Value.ToString());
             else
-                crvBaoCao.ReportSource = bus.getCRSuDungThuoc("", "");
+                crvBaoCao.ReportSource = bus.getCRSuDungThuoc(cbThang.SelectedIndex, nupNam.Value.ToString());
         }
     }
 }
