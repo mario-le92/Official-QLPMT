@@ -1,0 +1,11 @@
+E:\College\1Nam1\Nhap Mon Cong Nghe Phan Mem\Git Official\Official-QLPMT\Source\Quan_Ly_Phong_Mach_Tu\QL_PMT_yta\bin\Debug\QL_PMT_yta.exe.config
+E:\College\1Nam1\Nhap Mon Cong Nghe Phan Mem\Git Official\Official-QLPMT\Source\Quan_Ly_Phong_Mach_Tu\QL_PMT_yta\bin\Debug\QL_PMT_yta.exe
+E:\College\1Nam1\Nhap Mon Cong Nghe Phan Mem\Git Official\Official-QLPMT\Source\Quan_Ly_Phong_Mach_Tu\QL_PMT_yta\bin\Debug\QL_PMT_yta.pdb
+E:\College\1Nam1\Nhap Mon Cong Nghe Phan Mem\Git Official\Official-QLPMT\Source\Quan_Ly_Phong_Mach_Tu\QL_PMT_yta\obj\Debug\QL_PMT_yta.csprojResolveAssemblyReference.cache
+E:\College\1Nam1\Nhap Mon Cong Nghe Phan Mem\Git Official\Official-QLPMT\Source\Quan_Ly_Phong_Mach_Tu\QL_PMT_yta\obj\Debug\QL_PMT_yta.MainForm.resources
+E:\College\1Nam1\Nhap Mon Cong Nghe Phan Mem\Git Official\Official-QLPMT\Source\Quan_Ly_Phong_Mach_Tu\QL_PMT_yta\obj\Debug\QL_PMT_yta.Properties.Resources.resources
+E:\College\1Nam1\Nhap Mon Cong Nghe Phan Mem\Git Official\Official-QLPMT\Source\Quan_Ly_Phong_Mach_Tu\QL_PMT_yta\obj\Debug\QL_PMT_yta.usercontrols.Danh_sach_dang_ky_kham.resources
+E:\College\1Nam1\Nhap Mon Cong Nghe Phan Mem\Git Official\Official-QLPMT\Source\Quan_Ly_Phong_Mach_Tu\QL_PMT_yta\obj\Debug\QL_PMT_yta.usercontrols.Them_Benh_Nhan.resources
+E:\College\1Nam1\Nhap Mon Cong Nghe Phan Mem\Git Official\Official-QLPMT\Source\Quan_Ly_Phong_Mach_Tu\QL_PMT_yta\obj\Debug\QL_PMT_yta.csproj.GenerateResource.Cache
+E:\College\1Nam1\Nhap Mon Cong Nghe Phan Mem\Git Official\Official-QLPMT\Source\Quan_Ly_Phong_Mach_Tu\QL_PMT_yta\obj\Debug\QL_PMT_yta.exe
+E:\College\1Nam1\Nhap Mon Cong Nghe Phan Mem\Git Official\Official-QLPMT\Source\Quan_Ly_Phong_Mach_Tu\QL_PMT_yta\obj\Debug\QL_PMT_yta.pdb
