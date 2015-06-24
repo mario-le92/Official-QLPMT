@@ -45,5 +45,20 @@ namespace DAO
 
             return bcs;
         }
+
+        public DataTable xx()
+        {
+            OleDbConnection connection = openConnection();
+
+            string sql = "SELECT `Hoa_Don`.`ID`, `Hoa_Don`.`Ngay_kham`, `Thuoc_Cua_Toa`.`So_luong`, `Hoa_Don`.`Tien_kham`, `Thuoc_Cua_Toa`.`Don_gia` FROM   `Hoa_Don` `Hoa_Don` INNER JOIN `Thuoc_Cua_Toa` `Thuoc_Cua_Toa` ON `Hoa_Don`.`Id_Toa_Thuoc`=`Thuoc_Cua_Toa`.`Id_toa`";
+            
+            OleDbCommand command = new OleDbCommand(sql, connection);
+            OleDbDataReader reader = command.ExecuteReader();
+
+            var dbadapter = new OleDbDataAdapter(command);
+            DataTable dt = new DataTable();
+            dbadapter.Fill(dt);
+            return dt;
+        }
     }
 }

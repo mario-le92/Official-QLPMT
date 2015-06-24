@@ -1,0 +1,9 @@
+E:\College\1Nam1\Nhap Mon Cong Nghe Phan Mem\bk\Quan_Ly_Phong_Mach_Tu_23.06.DL\Quan_Ly_Phong_Mach_Tu\BUS\bin\Release\BUS.dll
+E:\College\1Nam1\Nhap Mon Cong Nghe Phan Mem\bk\Quan_Ly_Phong_Mach_Tu_23.06.DL\Quan_Ly_Phong_Mach_Tu\BUS\bin\Release\BUS.pdb
+E:\College\1Nam1\Nhap Mon Cong Nghe Phan Mem\bk\Quan_Ly_Phong_Mach_Tu_23.06.DL\Quan_Ly_Phong_Mach_Tu\BUS\bin\Release\DAO.dll
+E:\College\1Nam1\Nhap Mon Cong Nghe Phan Mem\bk\Quan_Ly_Phong_Mach_Tu_23.06.DL\Quan_Ly_Phong_Mach_Tu\BUS\bin\Release\DTO.dll
+E:\College\1Nam1\Nhap Mon Cong Nghe Phan Mem\bk\Quan_Ly_Phong_Mach_Tu_23.06.DL\Quan_Ly_Phong_Mach_Tu\BUS\bin\Release\DAO.pdb
+E:\College\1Nam1\Nhap Mon Cong Nghe Phan Mem\bk\Quan_Ly_Phong_Mach_Tu_23.06.DL\Quan_Ly_Phong_Mach_Tu\BUS\bin\Release\DTO.pdb
+E:\College\1Nam1\Nhap Mon Cong Nghe Phan Mem\bk\Quan_Ly_Phong_Mach_Tu_23.06.DL\Quan_Ly_Phong_Mach_Tu\BUS\obj\Release\BUS.csprojResolveAssemblyReference.cache
+E:\College\1Nam1\Nhap Mon Cong Nghe Phan Mem\bk\Quan_Ly_Phong_Mach_Tu_23.06.DL\Quan_Ly_Phong_Mach_Tu\BUS\obj\Release\BUS.dll
+E:\College\1Nam1\Nhap Mon Cong Nghe Phan Mem\bk\Quan_Ly_Phong_Mach_Tu_23.06.DL\Quan_Ly_Phong_Mach_Tu\BUS\obj\Release\BUS.pdb

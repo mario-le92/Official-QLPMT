@@ -10,7 +10,7 @@ namespace DAO
 {
     public class ODBConnector
     {
-        public static string connectionString = "Provider=Microsoft.Jet.OLEDB.4.0;Data Source=\"DB PMT.mdb\"";
+        public static string connectionString = "Provider=Microsoft.Jet.OLEDB.4.0;Data Source=\"_DB PMT.mdb\"";
         OleDbConnection mOleDbConnection;
         public OleDbConnection openConnection()
         {

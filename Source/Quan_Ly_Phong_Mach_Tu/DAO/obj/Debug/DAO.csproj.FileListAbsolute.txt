@@ -1,0 +1,21 @@
+E:\College\1Nam1\Nhap Mon Cong Nghe Phan Mem\Git Official\Official-QLPMT\Source\Quan_Ly_Phong_Mach_Tu\DAO\bin\Debug\DAO.dll
+E:\College\1Nam1\Nhap Mon Cong Nghe Phan Mem\Git Official\Official-QLPMT\Source\Quan_Ly_Phong_Mach_Tu\DAO\bin\Debug\DAO.pdb
+E:\College\1Nam1\Nhap Mon Cong Nghe Phan Mem\Git Official\Official-QLPMT\Source\Quan_Ly_Phong_Mach_Tu\DAO\bin\Debug\DTO.dll
+E:\College\1Nam1\Nhap Mon Cong Nghe Phan Mem\Git Official\Official-QLPMT\Source\Quan_Ly_Phong_Mach_Tu\DAO\bin\Debug\DTO.pdb
+E:\College\1Nam1\Nhap Mon Cong Nghe Phan Mem\Git Official\Official-QLPMT\Source\Quan_Ly_Phong_Mach_Tu\DAO\obj\Debug\DAO.csprojResolveAssemblyReference.cache
+E:\College\1Nam1\Nhap Mon Cong Nghe Phan Mem\Git Official\Official-QLPMT\Source\Quan_Ly_Phong_Mach_Tu\DAO\obj\Debug\DAO.dll
+E:\College\1Nam1\Nhap Mon Cong Nghe Phan Mem\Git Official\Official-QLPMT\Source\Quan_Ly_Phong_Mach_Tu\DAO\obj\Debug\DAO.pdb
+E:\Documents\File lap Trinh\LThong\Source\Quan_Ly_Phong_Mach_Tu\DAO\bin\Debug\DAO.dll
+E:\Documents\File lap Trinh\LThong\Source\Quan_Ly_Phong_Mach_Tu\DAO\bin\Debug\DAO.pdb
+E:\Documents\File lap Trinh\LThong\Source\Quan_Ly_Phong_Mach_Tu\DAO\bin\Debug\DTO.dll
+E:\Documents\File lap Trinh\LThong\Source\Quan_Ly_Phong_Mach_Tu\DAO\bin\Debug\DTO.pdb
+E:\Documents\File lap Trinh\LThong\Source\Quan_Ly_Phong_Mach_Tu\DAO\obj\Debug\DAO.csprojResolveAssemblyReference.cache
+E:\Documents\File lap Trinh\LThong\Source\Quan_Ly_Phong_Mach_Tu\DAO\obj\Debug\DAO.dll
+E:\Documents\File lap Trinh\LThong\Source\Quan_Ly_Phong_Mach_Tu\DAO\obj\Debug\DAO.pdb
+E:\College\1Nam1\Nhap Mon Cong Nghe Phan Mem\bk\Quan_Ly_Phong_Mach_Tu\DAO\bin\Debug\DAO.dll
+E:\College\1Nam1\Nhap Mon Cong Nghe Phan Mem\bk\Quan_Ly_Phong_Mach_Tu\DAO\bin\Debug\DAO.pdb
+E:\College\1Nam1\Nhap Mon Cong Nghe Phan Mem\bk\Quan_Ly_Phong_Mach_Tu\DAO\bin\Debug\DTO.dll
+E:\College\1Nam1\Nhap Mon Cong Nghe Phan Mem\bk\Quan_Ly_Phong_Mach_Tu\DAO\bin\Debug\DTO.pdb
+E:\College\1Nam1\Nhap Mon Cong Nghe Phan Mem\bk\Quan_Ly_Phong_Mach_Tu\DAO\obj\Debug\DAO.csprojResolveAssemblyReference.cache
+E:\College\1Nam1\Nhap Mon Cong Nghe Phan Mem\bk\Quan_Ly_Phong_Mach_Tu\DAO\obj\Debug\DAO.dll
+E:\College\1Nam1\Nhap Mon Cong Nghe Phan Mem\bk\Quan_Ly_Phong_Mach_Tu\DAO\obj\Debug\DAO.pdb

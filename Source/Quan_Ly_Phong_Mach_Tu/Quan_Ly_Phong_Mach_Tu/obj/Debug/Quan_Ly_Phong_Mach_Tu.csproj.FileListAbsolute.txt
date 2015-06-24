@@ -1,0 +1,123 @@
+E:\College\1Nam1\Nhap Mon Cong Nghe Phan Mem\Git Official\Official-QLPMT\Source\Quan_Ly_Phong_Mach_Tu\Quan_Ly_Phong_Mach_Tu\bin\Debug\Quan_Ly_Phong_Mach_Tu.exe.config
+E:\College\1Nam1\Nhap Mon Cong Nghe Phan Mem\Git Official\Official-QLPMT\Source\Quan_Ly_Phong_Mach_Tu\Quan_Ly_Phong_Mach_Tu\bin\Debug\Quan_Ly_Phong_Mach_Tu.exe
+E:\College\1Nam1\Nhap Mon Cong Nghe Phan Mem\Git Official\Official-QLPMT\Source\Quan_Ly_Phong_Mach_Tu\Quan_Ly_Phong_Mach_Tu\bin\Debug\Quan_Ly_Phong_Mach_Tu.pdb
+E:\College\1Nam1\Nhap Mon Cong Nghe Phan Mem\Git Official\Official-QLPMT\Source\Quan_Ly_Phong_Mach_Tu\Quan_Ly_Phong_Mach_Tu\bin\Debug\BUS.dll
+E:\College\1Nam1\Nhap Mon Cong Nghe Phan Mem\Git Official\Official-QLPMT\Source\Quan_Ly_Phong_Mach_Tu\Quan_Ly_Phong_Mach_Tu\bin\Debug\DTO.dll
+E:\College\1Nam1\Nhap Mon Cong Nghe Phan Mem\Git Official\Official-QLPMT\Source\Quan_Ly_Phong_Mach_Tu\Quan_Ly_Phong_Mach_Tu\bin\Debug\DAO.dll
+E:\College\1Nam1\Nhap Mon Cong Nghe Phan Mem\Git Official\Official-QLPMT\Source\Quan_Ly_Phong_Mach_Tu\Quan_Ly_Phong_Mach_Tu\bin\Debug\BUS.pdb
+E:\College\1Nam1\Nhap Mon Cong Nghe Phan Mem\Git Official\Official-QLPMT\Source\Quan_Ly_Phong_Mach_Tu\Quan_Ly_Phong_Mach_Tu\bin\Debug\DTO.pdb
+E:\College\1Nam1\Nhap Mon Cong Nghe Phan Mem\Git Official\Official-QLPMT\Source\Quan_Ly_Phong_Mach_Tu\Quan_Ly_Phong_Mach_Tu\bin\Debug\DAO.pdb
+E:\College\1Nam1\Nhap Mon Cong Nghe Phan Mem\Git Official\Official-QLPMT\Source\Quan_Ly_Phong_Mach_Tu\Quan_Ly_Phong_Mach_Tu\obj\Debug\Quan_Ly_Phong_Mach_Tu.csprojResolveAssemblyReference.cache
+E:\College\1Nam1\Nhap Mon Cong Nghe Phan Mem\Git Official\Official-QLPMT\Source\Quan_Ly_Phong_Mach_Tu\Quan_Ly_Phong_Mach_Tu\obj\Debug\Quan_Ly_Phong_Mach_Tu.Properties.Resources.resources
+E:\College\1Nam1\Nhap Mon Cong Nghe Phan Mem\Git Official\Official-QLPMT\Source\Quan_Ly_Phong_Mach_Tu\Quan_Ly_Phong_Mach_Tu\obj\Debug\Quan_Ly_Phong_Mach_Tu.csproj.GenerateResource.Cache
+E:\College\1Nam1\Nhap Mon Cong Nghe Phan Mem\Git Official\Official-QLPMT\Source\Quan_Ly_Phong_Mach_Tu\Quan_Ly_Phong_Mach_Tu\obj\Debug\Quan_Ly_Phong_Mach_Tu.exe
+E:\College\1Nam1\Nhap Mon Cong Nghe Phan Mem\Git Official\Official-QLPMT\Source\Quan_Ly_Phong_Mach_Tu\Quan_Ly_Phong_Mach_Tu\obj\Debug\Quan_Ly_Phong_Mach_Tu.pdb
+E:\College\1Nam1\Nhap Mon Cong Nghe Phan Mem\Git Official\Official-QLPMT\Source\Quan_Ly_Phong_Mach_Tu\Quan_Ly_Phong_Mach_Tu\obj\Debug\Quan_Ly_Phong_Mach_Tu.ThongTinPhongKham.resources
+E:\Documents\File lap Trinh\LThong\Source\Quan_Ly_Phong_Mach_Tu\Quan_Ly_Phong_Mach_Tu\bin\Debug\Quan_Ly_Phong_Mach_Tu.exe.config
+E:\Documents\File lap Trinh\LThong\Source\Quan_Ly_Phong_Mach_Tu\Quan_Ly_Phong_Mach_Tu\obj\Debug\Quan_Ly_Phong_Mach_Tu.exe
+E:\Documents\File lap Trinh\LThong\Source\Quan_Ly_Phong_Mach_Tu\Quan_Ly_Phong_Mach_Tu\obj\Debug\Quan_Ly_Phong_Mach_Tu.pdb
+E:\Documents\File lap Trinh\LThong\Source\Quan_Ly_Phong_Mach_Tu\Quan_Ly_Phong_Mach_Tu\obj\Debug\Quan_Ly_Phong_Mach_Tu.csprojResolveAssemblyReference.cache
+E:\Documents\File lap Trinh\LThong\Source\Quan_Ly_Phong_Mach_Tu\Quan_Ly_Phong_Mach_Tu\obj\Debug\Quan_Ly_Phong_Mach_Tu.BaoCaoUserControl.resources
+E:\Documents\File lap Trinh\LThong\Source\Quan_Ly_Phong_Mach_Tu\Quan_Ly_Phong_Mach_Tu\obj\Debug\Quan_Ly_Phong_Mach_Tu.Properties.Resources.resources
+E:\Documents\File lap Trinh\LThong\Source\Quan_Ly_Phong_Mach_Tu\Quan_Ly_Phong_Mach_Tu\obj\Debug\Quan_Ly_Phong_Mach_Tu.ThongTinPhongKham.resources
+E:\Documents\File lap Trinh\LThong\Source\Quan_Ly_Phong_Mach_Tu\Quan_Ly_Phong_Mach_Tu\obj\Debug\Quan_Ly_Phong_Mach_Tu.UCBaoCao.resources
+E:\Documents\File lap Trinh\LThong\Source\Quan_Ly_Phong_Mach_Tu\Quan_Ly_Phong_Mach_Tu\obj\Debug\Quan_Ly_Phong_Mach_Tu.csproj.GenerateResource.Cache
+E:\Documents\File lap Trinh\LThong\Source\Quan_Ly_Phong_Mach_Tu\Quan_Ly_Phong_Mach_Tu\bin\Debug\Quan_Ly_Phong_Mach_Tu.exe
+E:\Documents\File lap Trinh\LThong\Source\Quan_Ly_Phong_Mach_Tu\Quan_Ly_Phong_Mach_Tu\bin\Debug\Quan_Ly_Phong_Mach_Tu.pdb
+E:\Documents\File lap Trinh\LThong\Source\Quan_Ly_Phong_Mach_Tu\Quan_Ly_Phong_Mach_Tu\bin\Debug\BUS.dll
+E:\Documents\File lap Trinh\LThong\Source\Quan_Ly_Phong_Mach_Tu\Quan_Ly_Phong_Mach_Tu\bin\Debug\DTO.dll
+E:\Documents\File lap Trinh\LThong\Source\Quan_Ly_Phong_Mach_Tu\Quan_Ly_Phong_Mach_Tu\bin\Debug\DAO.dll
+E:\Documents\File lap Trinh\LThong\Source\Quan_Ly_Phong_Mach_Tu\Quan_Ly_Phong_Mach_Tu\bin\Debug\BUS.pdb
+E:\Documents\File lap Trinh\LThong\Source\Quan_Ly_Phong_Mach_Tu\Quan_Ly_Phong_Mach_Tu\bin\Debug\DTO.pdb
+E:\Documents\File lap Trinh\LThong\Source\Quan_Ly_Phong_Mach_Tu\Quan_Ly_Phong_Mach_Tu\bin\Debug\DAO.pdb
+E:\Documents\File lap Trinh\LThong\Source\Quan_Ly_Phong_Mach_Tu\Quan_Ly_Phong_Mach_Tu\obj\Debug\Quan_Ly_Phong_Mach_Tu.MainForm.resources
+E:\Documents\File lap Trinh\LThong\Source\Quan_Ly_Phong_Mach_Tu\Quan_Ly_Phong_Mach_Tu\obj\Debug\Quan_Ly_Phong_Mach_Tu.Uctr_DkKham.resources
+E:\Documents\File lap Trinh\LThong\Source\Quan_Ly_Phong_Mach_Tu\Quan_Ly_Phong_Mach_Tu\obj\Debug\Quan_Ly_Phong_Mach_Tu.Uctr_DanhSachKhamBenh.resources
+E:\Documents\File lap Trinh\LThong\Source\Quan_Ly_Phong_Mach_Tu\Quan_Ly_Phong_Mach_Tu\obj\Debug\Quan_Ly_Phong_Mach_Tu.Uctr_PhieuKhamBenh.resources
+E:\Documents\File lap Trinh\LThong\Source\Quan_Ly_Phong_Mach_Tu\Quan_Ly_Phong_Mach_Tu\obj\Debug\Quan_Ly_Phong_Mach_Tu.Uctr_TraCuu.resources
+E:\Documents\File lap Trinh\LThong\Source\Quan_Ly_Phong_Mach_Tu\Quan_Ly_Phong_Mach_Tu\obj\Debug\Quan_Ly_Phong_Mach_Tu.HoaDon.resources
+E:\College\1Nam1\Nhap Mon Cong Nghe Phan Mem\bk\Quan_Ly_Phong_Mach_Tu\Quan_Ly_Phong_Mach_Tu\bin\Debug\Quan_Ly_Phong_Mach_Tu.exe.config
+E:\College\1Nam1\Nhap Mon Cong Nghe Phan Mem\bk\Quan_Ly_Phong_Mach_Tu\Quan_Ly_Phong_Mach_Tu\obj\Debug\Quan_Ly_Phong_Mach_Tu.exe
+E:\College\1Nam1\Nhap Mon Cong Nghe Phan Mem\bk\Quan_Ly_Phong_Mach_Tu\Quan_Ly_Phong_Mach_Tu\obj\Debug\Quan_Ly_Phong_Mach_Tu.pdb
+E:\College\1Nam1\Nhap Mon Cong Nghe Phan Mem\bk\Quan_Ly_Phong_Mach_Tu\Quan_Ly_Phong_Mach_Tu\obj\Debug\Quan_Ly_Phong_Mach_Tu.csprojResolveAssemblyReference.cache
+E:\College\1Nam1\Nhap Mon Cong Nghe Phan Mem\bk\Quan_Ly_Phong_Mach_Tu\Quan_Ly_Phong_Mach_Tu\obj\Debug\Quan_Ly_Phong_Mach_Tu.HoaDon.resources
+E:\College\1Nam1\Nhap Mon Cong Nghe Phan Mem\bk\Quan_Ly_Phong_Mach_Tu\Quan_Ly_Phong_Mach_Tu\obj\Debug\Quan_Ly_Phong_Mach_Tu.MainForm.resources
+E:\College\1Nam1\Nhap Mon Cong Nghe Phan Mem\bk\Quan_Ly_Phong_Mach_Tu\Quan_Ly_Phong_Mach_Tu\obj\Debug\Quan_Ly_Phong_Mach_Tu.Uctr_DkKham.resources
+E:\College\1Nam1\Nhap Mon Cong Nghe Phan Mem\bk\Quan_Ly_Phong_Mach_Tu\Quan_Ly_Phong_Mach_Tu\obj\Debug\Quan_Ly_Phong_Mach_Tu.Uctr_BaoCao.resources
+E:\College\1Nam1\Nhap Mon Cong Nghe Phan Mem\bk\Quan_Ly_Phong_Mach_Tu\Quan_Ly_Phong_Mach_Tu\obj\Debug\Quan_Ly_Phong_Mach_Tu.Uctr_DanhSachKhamBenh.resources
+E:\College\1Nam1\Nhap Mon Cong Nghe Phan Mem\bk\Quan_Ly_Phong_Mach_Tu\Quan_Ly_Phong_Mach_Tu\obj\Debug\Quan_Ly_Phong_Mach_Tu.Uctr_PhieuKhamBenh.resources
+E:\College\1Nam1\Nhap Mon Cong Nghe Phan Mem\bk\Quan_Ly_Phong_Mach_Tu\Quan_Ly_Phong_Mach_Tu\obj\Debug\Quan_Ly_Phong_Mach_Tu.Properties.Resources.resources
+E:\College\1Nam1\Nhap Mon Cong Nghe Phan Mem\bk\Quan_Ly_Phong_Mach_Tu\Quan_Ly_Phong_Mach_Tu\obj\Debug\Quan_Ly_Phong_Mach_Tu.ThongTinPhongKham.resources
+E:\College\1Nam1\Nhap Mon Cong Nghe Phan Mem\bk\Quan_Ly_Phong_Mach_Tu\Quan_Ly_Phong_Mach_Tu\obj\Debug\Quan_Ly_Phong_Mach_Tu.watermark_textbox.resources
+E:\College\1Nam1\Nhap Mon Cong Nghe Phan Mem\bk\Quan_Ly_Phong_Mach_Tu\Quan_Ly_Phong_Mach_Tu\obj\Debug\Quan_Ly_Phong_Mach_Tu.csproj.GenerateResource.Cache
+E:\College\1Nam1\Nhap Mon Cong Nghe Phan Mem\bk\Quan_Ly_Phong_Mach_Tu\Quan_Ly_Phong_Mach_Tu\bin\Debug\Quan_Ly_Phong_Mach_Tu.exe
+E:\College\1Nam1\Nhap Mon Cong Nghe Phan Mem\bk\Quan_Ly_Phong_Mach_Tu\Quan_Ly_Phong_Mach_Tu\bin\Debug\Quan_Ly_Phong_Mach_Tu.pdb
+E:\College\1Nam1\Nhap Mon Cong Nghe Phan Mem\bk\Quan_Ly_Phong_Mach_Tu\Quan_Ly_Phong_Mach_Tu\bin\Debug\BUS.dll
+E:\College\1Nam1\Nhap Mon Cong Nghe Phan Mem\bk\Quan_Ly_Phong_Mach_Tu\Quan_Ly_Phong_Mach_Tu\bin\Debug\DTO.dll
+E:\College\1Nam1\Nhap Mon Cong Nghe Phan Mem\bk\Quan_Ly_Phong_Mach_Tu\Quan_Ly_Phong_Mach_Tu\bin\Debug\DAO.dll
+E:\College\1Nam1\Nhap Mon Cong Nghe Phan Mem\bk\Quan_Ly_Phong_Mach_Tu\Quan_Ly_Phong_Mach_Tu\bin\Debug\BUS.pdb
+E:\College\1Nam1\Nhap Mon Cong Nghe Phan Mem\bk\Quan_Ly_Phong_Mach_Tu\Quan_Ly_Phong_Mach_Tu\bin\Debug\DTO.pdb
+E:\College\1Nam1\Nhap Mon Cong Nghe Phan Mem\bk\Quan_Ly_Phong_Mach_Tu\Quan_Ly_Phong_Mach_Tu\bin\Debug\DAO.pdb
+E:\College\1Nam1\Nhap Mon Cong Nghe Phan Mem\bk\Quan_Ly_Phong_Mach_Tu\Quan_Ly_Phong_Mach_Tu\obj\Debug\Quan_Ly_Phong_Mach_Tu.Uctr_TraCuuBenhNhan.resources
+E:\College\1Nam1\Nhap Mon Cong Nghe Phan Mem\Git Official\Official-QLPMT\Source\Quan_Ly_Phong_Mach_Tu\Quan_Ly_Phong_Mach_Tu\obj\Debug\Quan_Ly_Phong_Mach_Tu.HoaDon.resources
+E:\College\1Nam1\Nhap Mon Cong Nghe Phan Mem\Git Official\Official-QLPMT\Source\Quan_Ly_Phong_Mach_Tu\Quan_Ly_Phong_Mach_Tu\obj\Debug\Quan_Ly_Phong_Mach_Tu.MainForm.resources
+E:\College\1Nam1\Nhap Mon Cong Nghe Phan Mem\Git Official\Official-QLPMT\Source\Quan_Ly_Phong_Mach_Tu\Quan_Ly_Phong_Mach_Tu\obj\Debug\Quan_Ly_Phong_Mach_Tu.Uctr_TraCuuBenhNhan.resources
+E:\College\1Nam1\Nhap Mon Cong Nghe Phan Mem\Git Official\Official-QLPMT\Source\Quan_Ly_Phong_Mach_Tu\Quan_Ly_Phong_Mach_Tu\obj\Debug\Quan_Ly_Phong_Mach_Tu.Uctr_DkKham.resources
+E:\College\1Nam1\Nhap Mon Cong Nghe Phan Mem\Git Official\Official-QLPMT\Source\Quan_Ly_Phong_Mach_Tu\Quan_Ly_Phong_Mach_Tu\obj\Debug\Quan_Ly_Phong_Mach_Tu.Uctr_BaoCao.resources
+E:\College\1Nam1\Nhap Mon Cong Nghe Phan Mem\Git Official\Official-QLPMT\Source\Quan_Ly_Phong_Mach_Tu\Quan_Ly_Phong_Mach_Tu\obj\Debug\Quan_Ly_Phong_Mach_Tu.Uctr_DanhSachKhamBenh.resources
+E:\College\1Nam1\Nhap Mon Cong Nghe Phan Mem\Git Official\Official-QLPMT\Source\Quan_Ly_Phong_Mach_Tu\Quan_Ly_Phong_Mach_Tu\obj\Debug\Quan_Ly_Phong_Mach_Tu.Uctr_PhieuKhamBenh.resources
+E:\College\1Nam1\Nhap Mon Cong Nghe Phan Mem\Git Official\Official-QLPMT\Source\Quan_Ly_Phong_Mach_Tu\Quan_Ly_Phong_Mach_Tu\obj\Debug\Quan_Ly_Phong_Mach_Tu.watermark_textbox.resources
+E:\College\1Nam1\Nhap Mon Cong Nghe Phan Mem\Git Official\Official-QLPMT\Source\Quan_Ly_Phong_Mach_Tu\Quan_Ly_Phong_Mach_Tu\obj\Debug\Quan_Ly_Phong_Mach_Tu.frmDonViTinh.resources
+E:\College\1Nam1\Nhap Mon Cong Nghe Phan Mem\Git Official\Official-QLPMT\Source\Quan_Ly_Phong_Mach_Tu\Quan_Ly_Phong_Mach_Tu\obj\Debug\Quan_Ly_Phong_Mach_Tu.Uctr_Thuoc.resources
+E:\College\1Nam1\Nhap Mon Cong Nghe Phan Mem\Git Official\Official-QLPMT\Source\Quan_Ly_Phong_Mach_Tu\Quan_Ly_Phong_Mach_Tu\bin\Debug\_DB PMT.mdb
+C:\Users\Pham\Desktop\Quan_Ly_Phong_Mach_Tu\Quan_Ly_Phong_Mach_Tu\bin\Debug\Quan_Ly_Phong_Mach_Tu.exe.config
+C:\Users\Pham\Desktop\Quan_Ly_Phong_Mach_Tu\Quan_Ly_Phong_Mach_Tu\obj\Debug\Quan_Ly_Phong_Mach_Tu.exe
+C:\Users\Pham\Desktop\Quan_Ly_Phong_Mach_Tu\Quan_Ly_Phong_Mach_Tu\obj\Debug\Quan_Ly_Phong_Mach_Tu.pdb
+C:\Users\Pham\Desktop\Quan_Ly_Phong_Mach_Tu\Quan_Ly_Phong_Mach_Tu\bin\Debug\_DB PMT.mdb
+C:\Users\Pham\Desktop\Quan_Ly_Phong_Mach_Tu\Quan_Ly_Phong_Mach_Tu\bin\Debug\Quan_Ly_Phong_Mach_Tu.exe
+C:\Users\Pham\Desktop\Quan_Ly_Phong_Mach_Tu\Quan_Ly_Phong_Mach_Tu\bin\Debug\Quan_Ly_Phong_Mach_Tu.pdb
+C:\Users\Pham\Desktop\Quan_Ly_Phong_Mach_Tu\Quan_Ly_Phong_Mach_Tu\bin\Debug\BUS.dll
+C:\Users\Pham\Desktop\Quan_Ly_Phong_Mach_Tu\Quan_Ly_Phong_Mach_Tu\bin\Debug\DTO.dll
+C:\Users\Pham\Desktop\Quan_Ly_Phong_Mach_Tu\Quan_Ly_Phong_Mach_Tu\bin\Debug\DAO.dll
+C:\Users\Pham\Desktop\Quan_Ly_Phong_Mach_Tu\Quan_Ly_Phong_Mach_Tu\bin\Debug\BUS.pdb
+C:\Users\Pham\Desktop\Quan_Ly_Phong_Mach_Tu\Quan_Ly_Phong_Mach_Tu\bin\Debug\DTO.pdb
+C:\Users\Pham\Desktop\Quan_Ly_Phong_Mach_Tu\Quan_Ly_Phong_Mach_Tu\bin\Debug\DAO.pdb
+C:\Users\Pham\Desktop\Quan_Ly_Phong_Mach_Tu\Quan_Ly_Phong_Mach_Tu\obj\Debug\Quan_Ly_Phong_Mach_Tu.csprojResolveAssemblyReference.cache
+C:\Users\Pham\Desktop\Quan_Ly_Phong_Mach_Tu\Quan_Ly_Phong_Mach_Tu\obj\Debug\Quan_Ly_Phong_Mach_Tu.frmDonViTinh.resources
+C:\Users\Pham\Desktop\Quan_Ly_Phong_Mach_Tu\Quan_Ly_Phong_Mach_Tu\obj\Debug\Quan_Ly_Phong_Mach_Tu.HoaDon.resources
+C:\Users\Pham\Desktop\Quan_Ly_Phong_Mach_Tu\Quan_Ly_Phong_Mach_Tu\obj\Debug\Quan_Ly_Phong_Mach_Tu.MainForm.resources
+C:\Users\Pham\Desktop\Quan_Ly_Phong_Mach_Tu\Quan_Ly_Phong_Mach_Tu\obj\Debug\Quan_Ly_Phong_Mach_Tu.Uctr_Thuoc.resources
+C:\Users\Pham\Desktop\Quan_Ly_Phong_Mach_Tu\Quan_Ly_Phong_Mach_Tu\obj\Debug\Quan_Ly_Phong_Mach_Tu.Uctr_TraCuuBenhNhan.resources
+C:\Users\Pham\Desktop\Quan_Ly_Phong_Mach_Tu\Quan_Ly_Phong_Mach_Tu\obj\Debug\Quan_Ly_Phong_Mach_Tu.Uctr_DkKham.resources
+C:\Users\Pham\Desktop\Quan_Ly_Phong_Mach_Tu\Quan_Ly_Phong_Mach_Tu\obj\Debug\Quan_Ly_Phong_Mach_Tu.Uctr_BaoCao.resources
+C:\Users\Pham\Desktop\Quan_Ly_Phong_Mach_Tu\Quan_Ly_Phong_Mach_Tu\obj\Debug\Quan_Ly_Phong_Mach_Tu.Uctr_DanhSachKhamBenh.resources
+C:\Users\Pham\Desktop\Quan_Ly_Phong_Mach_Tu\Quan_Ly_Phong_Mach_Tu\obj\Debug\Quan_Ly_Phong_Mach_Tu.Uctr_PhieuKhamBenh.resources
+C:\Users\Pham\Desktop\Quan_Ly_Phong_Mach_Tu\Quan_Ly_Phong_Mach_Tu\obj\Debug\Quan_Ly_Phong_Mach_Tu.Properties.Resources.resources
+C:\Users\Pham\Desktop\Quan_Ly_Phong_Mach_Tu\Quan_Ly_Phong_Mach_Tu\obj\Debug\Quan_Ly_Phong_Mach_Tu.ThongTinPhongKham.resources
+C:\Users\Pham\Desktop\Quan_Ly_Phong_Mach_Tu\Quan_Ly_Phong_Mach_Tu\obj\Debug\Quan_Ly_Phong_Mach_Tu.watermark_textbox.resources
+C:\Users\Pham\Desktop\Quan_Ly_Phong_Mach_Tu\Quan_Ly_Phong_Mach_Tu\obj\Debug\Quan_Ly_Phong_Mach_Tu.csproj.GenerateResource.Cache
+E:\College\1Nam1\Nhap Mon Cong Nghe Phan Mem\bk\Quan_Ly_Phong_Mach_Tu_23.06.DL\Quan_Ly_Phong_Mach_Tu\Quan_Ly_Phong_Mach_Tu\bin\Debug\Quan_Ly_Phong_Mach_Tu.exe.config
+E:\College\1Nam1\Nhap Mon Cong Nghe Phan Mem\bk\Quan_Ly_Phong_Mach_Tu_23.06.DL\Quan_Ly_Phong_Mach_Tu\Quan_Ly_Phong_Mach_Tu\obj\Debug\Quan_Ly_Phong_Mach_Tu.exe
+E:\College\1Nam1\Nhap Mon Cong Nghe Phan Mem\bk\Quan_Ly_Phong_Mach_Tu_23.06.DL\Quan_Ly_Phong_Mach_Tu\Quan_Ly_Phong_Mach_Tu\obj\Debug\Quan_Ly_Phong_Mach_Tu.pdb
+E:\College\1Nam1\Nhap Mon Cong Nghe Phan Mem\bk\Quan_Ly_Phong_Mach_Tu_23.06.DL\Quan_Ly_Phong_Mach_Tu\Quan_Ly_Phong_Mach_Tu\bin\Debug\Quan_Ly_Phong_Mach_Tu.exe
+E:\College\1Nam1\Nhap Mon Cong Nghe Phan Mem\bk\Quan_Ly_Phong_Mach_Tu_23.06.DL\Quan_Ly_Phong_Mach_Tu\Quan_Ly_Phong_Mach_Tu\bin\Debug\Quan_Ly_Phong_Mach_Tu.pdb
+E:\College\1Nam1\Nhap Mon Cong Nghe Phan Mem\bk\Quan_Ly_Phong_Mach_Tu_23.06.DL\Quan_Ly_Phong_Mach_Tu\Quan_Ly_Phong_Mach_Tu\bin\Debug\BUS.dll
+E:\College\1Nam1\Nhap Mon Cong Nghe Phan Mem\bk\Quan_Ly_Phong_Mach_Tu_23.06.DL\Quan_Ly_Phong_Mach_Tu\Quan_Ly_Phong_Mach_Tu\bin\Debug\DTO.dll
+E:\College\1Nam1\Nhap Mon Cong Nghe Phan Mem\bk\Quan_Ly_Phong_Mach_Tu_23.06.DL\Quan_Ly_Phong_Mach_Tu\Quan_Ly_Phong_Mach_Tu\bin\Debug\DAO.dll
+E:\College\1Nam1\Nhap Mon Cong Nghe Phan Mem\bk\Quan_Ly_Phong_Mach_Tu_23.06.DL\Quan_Ly_Phong_Mach_Tu\Quan_Ly_Phong_Mach_Tu\bin\Debug\BUS.pdb
+E:\College\1Nam1\Nhap Mon Cong Nghe Phan Mem\bk\Quan_Ly_Phong_Mach_Tu_23.06.DL\Quan_Ly_Phong_Mach_Tu\Quan_Ly_Phong_Mach_Tu\bin\Debug\DTO.pdb
+E:\College\1Nam1\Nhap Mon Cong Nghe Phan Mem\bk\Quan_Ly_Phong_Mach_Tu_23.06.DL\Quan_Ly_Phong_Mach_Tu\Quan_Ly_Phong_Mach_Tu\bin\Debug\DAO.pdb
+E:\College\1Nam1\Nhap Mon Cong Nghe Phan Mem\bk\Quan_Ly_Phong_Mach_Tu_23.06.DL\Quan_Ly_Phong_Mach_Tu\Quan_Ly_Phong_Mach_Tu\obj\Debug\Quan_Ly_Phong_Mach_Tu.csprojResolveAssemblyReference.cache
+E:\College\1Nam1\Nhap Mon Cong Nghe Phan Mem\bk\Quan_Ly_Phong_Mach_Tu_23.06.DL\Quan_Ly_Phong_Mach_Tu\Quan_Ly_Phong_Mach_Tu\obj\Debug\Quan_Ly_Phong_Mach_Tu.frmDonViTinh.resources
+E:\College\1Nam1\Nhap Mon Cong Nghe Phan Mem\bk\Quan_Ly_Phong_Mach_Tu_23.06.DL\Quan_Ly_Phong_Mach_Tu\Quan_Ly_Phong_Mach_Tu\obj\Debug\Quan_Ly_Phong_Mach_Tu.HoaDon.resources
+E:\College\1Nam1\Nhap Mon Cong Nghe Phan Mem\bk\Quan_Ly_Phong_Mach_Tu_23.06.DL\Quan_Ly_Phong_Mach_Tu\Quan_Ly_Phong_Mach_Tu\obj\Debug\Quan_Ly_Phong_Mach_Tu.MainForm.resources
+E:\College\1Nam1\Nhap Mon Cong Nghe Phan Mem\bk\Quan_Ly_Phong_Mach_Tu_23.06.DL\Quan_Ly_Phong_Mach_Tu\Quan_Ly_Phong_Mach_Tu\obj\Debug\Quan_Ly_Phong_Mach_Tu.Uctr_Thuoc.resources
+E:\College\1Nam1\Nhap Mon Cong Nghe Phan Mem\bk\Quan_Ly_Phong_Mach_Tu_23.06.DL\Quan_Ly_Phong_Mach_Tu\Quan_Ly_Phong_Mach_Tu\obj\Debug\Quan_Ly_Phong_Mach_Tu.Uctr_TraCuuBenhNhan.resources
+E:\College\1Nam1\Nhap Mon Cong Nghe Phan Mem\bk\Quan_Ly_Phong_Mach_Tu_23.06.DL\Quan_Ly_Phong_Mach_Tu\Quan_Ly_Phong_Mach_Tu\obj\Debug\Quan_Ly_Phong_Mach_Tu.Uctr_DkKham.resources
+E:\College\1Nam1\Nhap Mon Cong Nghe Phan Mem\bk\Quan_Ly_Phong_Mach_Tu_23.06.DL\Quan_Ly_Phong_Mach_Tu\Quan_Ly_Phong_Mach_Tu\obj\Debug\Quan_Ly_Phong_Mach_Tu.Uctr_BaoCao.resources
+E:\College\1Nam1\Nhap Mon Cong Nghe Phan Mem\bk\Quan_Ly_Phong_Mach_Tu_23.06.DL\Quan_Ly_Phong_Mach_Tu\Quan_Ly_Phong_Mach_Tu\obj\Debug\Quan_Ly_Phong_Mach_Tu.Uctr_DanhSachKhamBenh.resources
+E:\College\1Nam1\Nhap Mon Cong Nghe Phan Mem\bk\Quan_Ly_Phong_Mach_Tu_23.06.DL\Quan_Ly_Phong_Mach_Tu\Quan_Ly_Phong_Mach_Tu\obj\Debug\Quan_Ly_Phong_Mach_Tu.Uctr_PhieuKhamBenh.resources
+E:\College\1Nam1\Nhap Mon Cong Nghe Phan Mem\bk\Quan_Ly_Phong_Mach_Tu_23.06.DL\Quan_Ly_Phong_Mach_Tu\Quan_Ly_Phong_Mach_Tu\obj\Debug\Quan_Ly_Phong_Mach_Tu.Properties.Resources.resources
+E:\College\1Nam1\Nhap Mon Cong Nghe Phan Mem\bk\Quan_Ly_Phong_Mach_Tu_23.06.DL\Quan_Ly_Phong_Mach_Tu\Quan_Ly_Phong_Mach_Tu\obj\Debug\Quan_Ly_Phong_Mach_Tu.ThongTinPhongKham.resources
+E:\College\1Nam1\Nhap Mon Cong Nghe Phan Mem\bk\Quan_Ly_Phong_Mach_Tu_23.06.DL\Quan_Ly_Phong_Mach_Tu\Quan_Ly_Phong_Mach_Tu\obj\Debug\Quan_Ly_Phong_Mach_Tu.watermark_textbox.resources
+E:\College\1Nam1\Nhap Mon Cong Nghe Phan Mem\bk\Quan_Ly_Phong_Mach_Tu_23.06.DL\Quan_Ly_Phong_Mach_Tu\Quan_Ly_Phong_Mach_Tu\obj\Debug\Quan_Ly_Phong_Mach_Tu.csproj.GenerateResource.Cache

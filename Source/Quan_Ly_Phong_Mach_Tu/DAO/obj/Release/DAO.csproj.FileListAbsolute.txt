@@ -1,0 +1,7 @@
+E:\College\1Nam1\Nhap Mon Cong Nghe Phan Mem\bk\Quan_Ly_Phong_Mach_Tu_23.06.DL\Quan_Ly_Phong_Mach_Tu\DAO\bin\Release\DAO.dll
+E:\College\1Nam1\Nhap Mon Cong Nghe Phan Mem\bk\Quan_Ly_Phong_Mach_Tu_23.06.DL\Quan_Ly_Phong_Mach_Tu\DAO\bin\Release\DAO.pdb
+E:\College\1Nam1\Nhap Mon Cong Nghe Phan Mem\bk\Quan_Ly_Phong_Mach_Tu_23.06.DL\Quan_Ly_Phong_Mach_Tu\DAO\bin\Release\DTO.dll
+E:\College\1Nam1\Nhap Mon Cong Nghe Phan Mem\bk\Quan_Ly_Phong_Mach_Tu_23.06.DL\Quan_Ly_Phong_Mach_Tu\DAO\bin\Release\DTO.pdb
+E:\College\1Nam1\Nhap Mon Cong Nghe Phan Mem\bk\Quan_Ly_Phong_Mach_Tu_23.06.DL\Quan_Ly_Phong_Mach_Tu\DAO\obj\Release\DAO.csprojResolveAssemblyReference.cache
+E:\College\1Nam1\Nhap Mon Cong Nghe Phan Mem\bk\Quan_Ly_Phong_Mach_Tu_23.06.DL\Quan_Ly_Phong_Mach_Tu\DAO\obj\Release\DAO.dll
+E:\College\1Nam1\Nhap Mon Cong Nghe Phan Mem\bk\Quan_Ly_Phong_Mach_Tu_23.06.DL\Quan_Ly_Phong_Mach_Tu\DAO\obj\Release\DAO.pdb
